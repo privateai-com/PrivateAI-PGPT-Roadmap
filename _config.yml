@@ -1,10 +1,16 @@
 title: PrivateAI $PGPT Ecosystem Roadmap
 description: Comprehensive documentation of AI-powered trading and research intelligence tools
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Site settings
 baseurl: "/PrivateAI-PGPT-Roadmap"
 url: "https://privateai-com.github.io"
+
+# Logo (optional - add if you have one)
+# logo: /assets/images/logo.png
+
+# Show downloads button
+show_downloads: false
 
 # Build settings
 markdown: kramdown
