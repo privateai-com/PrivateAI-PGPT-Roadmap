@@ -12,7 +12,7 @@ search_enabled: true
 heading_anchors: true
 
 # Logo
-logo: "/logo-pgpt/Logo-normal.svg"
+logo: "/logo-pgpt/Logo-normal.png"
 
 # Footer content
 footer_content: "© 2025 PrivateAI. All rights reserved."
