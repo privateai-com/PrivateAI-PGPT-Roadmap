@@ -89,6 +89,10 @@ Comprehensive visualization of social momentum:
 - **Fake Shiller Detection**: Genuine alpha vs paid promoters
 - **Follow Lists**: Build custom lists of proven alpha providers
 
+![KOL First Mentions - See who called tokens before they pumped](/images/thing-first-mentions.png)
+
+*KOL Discovery showing first mentions and timing analysis*
+
 ### Real-Time Alerts
 
 Stay ahead with instant notifications:
