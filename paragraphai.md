@@ -1,3 +1,10 @@
+---
+layout: default
+title: ParaGraphAI
+nav_order: 6
+description: "Scientific Article Verification"
+---
+
 # ParaGraphAI - Scientific Article Verification Platform
 
 [← Back to Overview](index)

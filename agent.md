@@ -1,3 +1,10 @@
+---
+layout: default
+title: PrivateAI Agent
+nav_order: 8
+description: "AI-Powered Desktop Workstation"
+---
+
 # PrivateAI Agent - AI-Powered Workstation
 
 [← Back to Overview](index)

@@ -1,3 +1,10 @@
+---
+layout: default
+title: $PGPT Token Utility
+nav_order: 9
+description: "Comprehensive Token Use Cases"
+---
+
 # $PGPT Token Utility
 
 [← Back to Overview](index)

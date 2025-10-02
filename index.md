@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Building the Future of AI-Powered Trading and Research Intelligence"
+permalink: /
+---
+
 # PrivateAI $PGPT Ecosystem Roadmap
 
 > **Building the Future of AI-Powered Trading and Research Intelligence**

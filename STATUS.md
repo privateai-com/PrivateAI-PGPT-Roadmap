@@ -1,3 +1,9 @@
+---
+layout: default
+title: Project Status
+nav_exclude: true
+---
+
 # Roadmap Creation Status
 
 ## ✅ COMPLETED - ALL PAGES DONE! 🎉

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Trading Platform
+nav_order: 3
+description: "Cross-Chain Trading Infrastructure"
+---
+
 # Cross-Chain Trading Platform
 
 [← Back to Overview](index)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Structure Documentation
+nav_exclude: true
+---
+
 # PrivateAI Roadmap Structure
 
 ## 📁 File Organization

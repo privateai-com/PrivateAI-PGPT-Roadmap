@@ -1,3 +1,10 @@
+---
+layout: default
+title: Trading Intelligence
+nav_order: 4
+description: "Sniper Bot & Sentiment Fusion"
+---
+
 # AI Trading Intelligence Suite
 
 [← Back to Overview](index)

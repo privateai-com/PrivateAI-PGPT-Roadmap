@@ -1,3 +1,10 @@
+---
+layout: default
+title: Research AI
+nav_order: 5
+description: "Autonomous Research Assistant"
+---
+
 # Research AI - Autonomous Research Assistant
 
 [← Back to Overview](index)

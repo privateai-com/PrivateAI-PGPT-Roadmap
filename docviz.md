@@ -1,3 +1,10 @@
+---
+layout: default
+title: DocViz
+nav_order: 7
+description: "Document Intelligence Platform"
+---
+
 # DocViz - Advanced Document Intelligence Platform
 
 [← Back to Overview](index)

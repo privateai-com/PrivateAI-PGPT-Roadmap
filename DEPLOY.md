@@ -1,3 +1,9 @@
+---
+layout: default
+title: Deployment Guide
+nav_exclude: true
+---
+
 # Deployment Guide - GitHub Pages
 
 ## 🚀 Quick Deployment Steps

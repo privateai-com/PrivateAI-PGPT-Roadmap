@@ -1,3 +1,10 @@
+---
+layout: default
+title: The Thing (Flagship)
+nav_order: 2
+description: "Social Sentiment Intelligence Platform"
+---
+
 # The Thing - Social Sentiment Intelligence Platform
 
 [← Back to Overview](index)
