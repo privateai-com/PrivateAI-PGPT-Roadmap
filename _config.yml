@@ -11,6 +11,9 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 
+# Logo
+logo: "/logo-pgpt/Logo-normal.svg"
+
 # Footer content
 footer_content: "© 2025 PrivateAI. All rights reserved."
 
