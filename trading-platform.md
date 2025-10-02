@@ -21,6 +21,14 @@ The PrivateAI Trading Platform is a comprehensive cross-chain trading infrastruc
 
 ---
 
+## 📸 Platform Overview
+
+![Trading Platform Dashboard](/images/Thing.fun-bot1.jpg)
+
+*Cross-chain trading interface with real-time token discovery and unified wallet management*
+
+---
+
 ## 🎯 The Cross-Chain Challenge
 
 Traditional crypto trading requires:
@@ -118,6 +126,10 @@ Traditional crypto trading requires:
 - Set default wallets per network
 - Secure encryption with key versioning
 
+![Multi-Chain Wallet Interface](/images/Thing.fun-bot2.jpg)
+
+*Unified wallet management across Solana, Ethereum, and BSC*
+
 ### Intelligent Trading Execution
 
 **Market Orders:**
@@ -210,6 +222,10 @@ Traditional crypto trading requires:
 - Configure slippage and limits
 - One-click execution
 - Real-time status updates
+
+![Trading Execution Interface](/images/Thing.fun-bot3.jpg)
+
+*One-click cross-chain trading with real-time price updates and slippage control*
 
 ### Portfolio Management
 
