@@ -1,6 +1,6 @@
 # ParaGraphAI - Scientific Article Verification Platform
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -310,10 +310,10 @@ Visit **paragraph.privateai.com** to:
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [Research AI →](research-ai.md)
-- [DocViz →](docviz.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [Research AI →](research-ai)
+- [DocViz →](docviz)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 

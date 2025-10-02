@@ -8,15 +8,15 @@ This repository contains the complete roadmap for PrivateAI's suite of AI-powere
 
 ### Main Pages
 
-- **[index.md](index.md)** - Overview and navigation hub
-- **[the-thing.md](the-thing.md)** - Flagship social sentiment intelligence platform
-- **[trading-platform.md](trading-platform.md)** - Cross-chain trading infrastructure
-- **[trading-intelligence.md](trading-intelligence.md)** - Sniper Bot & sentiment fusion
-- **[research-ai.md](research-ai.md)** - Autonomous 24/7 research assistant
-- **[paragraphai.md](paragraphai.md)** - Scientific article verification
-- **[docviz.md](docviz.md)** - Advanced document intelligence
-- **[agent.md](agent.md)** - AI-powered desktop workstation
-- **[token-utility.md](token-utility.md)** - $PGPT token use cases
+- **[index.md](index)** - Overview and navigation hub
+- **[the-thing.md](the-thing)** - Flagship social sentiment intelligence platform
+- **[trading-platform.md](trading-platform)** - Cross-chain trading infrastructure
+- **[trading-intelligence.md](trading-intelligence)** - Sniper Bot & sentiment fusion
+- **[research-ai.md](research-ai)** - Autonomous 24/7 research assistant
+- **[paragraphai.md](paragraphai)** - Scientific article verification
+- **[docviz.md](docviz)** - Advanced document intelligence
+- **[agent.md](agent)** - AI-powered desktop workstation
+- **[token-utility.md](token-utility)** - $PGPT token use cases
 
 ## 🚀 Quick Start
 

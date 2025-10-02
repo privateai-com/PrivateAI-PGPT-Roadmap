@@ -1,6 +1,6 @@
 # Research AI - Autonomous Research Assistant
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -417,10 +417,10 @@ Staying current with scientific literature is overwhelming:
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [ParaGraphAI - Article Verification →](paragraphai.md)
-- [DocViz - Document Intelligence →](docviz.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [ParaGraphAI - Article Verification →](paragraphai)
+- [DocViz - Document Intelligence →](docviz)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 

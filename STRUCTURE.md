@@ -138,7 +138,7 @@ Each product page follows this consistent structure:
 ```markdown
 # [Product Name] - [Tagline]
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 

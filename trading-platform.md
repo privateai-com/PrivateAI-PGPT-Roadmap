@@ -1,6 +1,6 @@
 # Cross-Chain Trading Platform
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -416,10 +416,10 @@ Traditional crypto trading requires:
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [The Thing - Sentiment Analysis →](the-thing.md)
-- [Trading Intelligence Suite →](trading-intelligence.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [The Thing - Sentiment Analysis →](the-thing)
+- [Trading Intelligence Suite →](trading-intelligence)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 

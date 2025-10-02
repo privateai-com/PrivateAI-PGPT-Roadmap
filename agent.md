@@ -1,6 +1,6 @@
 # PrivateAI Agent - AI-Powered Workstation
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -306,10 +306,10 @@ Each agent can use a different model for optimal performance.
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [Research AI →](research-ai.md)
-- [DocViz →](docviz.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [Research AI →](research-ai)
+- [DocViz →](docviz)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 

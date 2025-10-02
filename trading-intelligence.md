@@ -1,6 +1,6 @@
 # AI Trading Intelligence Suite
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -437,10 +437,10 @@ Finding tokens before they pump requires:
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [The Thing - Sentiment Analysis →](the-thing.md)
-- [Trading Platform →](trading-platform.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [The Thing - Sentiment Analysis →](the-thing)
+- [Trading Platform →](trading-platform)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 

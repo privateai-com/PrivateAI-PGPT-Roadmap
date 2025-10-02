@@ -15,20 +15,20 @@ This roadmap provides a comprehensive overview of the PrivateAI ecosystem, showc
 ## 🎯 Quick Navigation
 
 ### Trading & Intelligence
-- [**The Thing**](the-thing.md) - *Flagship Product* - Social Sentiment Intelligence Platform
-- [**Cross-Chain Trading Platform**](trading-platform.md) - Multi-Chain Token Discovery & Trading
-- [**AI Trading Intelligence Suite**](trading-intelligence.md) - Sniper Bot & Sentiment Fusion
+- [**The Thing**](the-thing) - *Flagship Product* - Social Sentiment Intelligence Platform
+- [**Cross-Chain Trading Platform**](trading-platform) - Multi-Chain Token Discovery & Trading
+- [**AI Trading Intelligence Suite**](trading-intelligence) - Sniper Bot & Sentiment Fusion
 
 ### Research & Knowledge
-- [**Research AI**](research-ai.md) - Autonomous 24/7 Research Assistant
-- [**ParaGraphAI**](paragraphai.md) - Scientific Article Verification
-- [**DocViz**](docviz.md) - Advanced Document Intelligence
+- [**Research AI**](research-ai) - Autonomous 24/7 Research Assistant
+- [**ParaGraphAI**](paragraphai) - Scientific Article Verification
+- [**DocViz**](docviz) - Advanced Document Intelligence
 
 ### Productivity & Tools
-- [**PrivateAI Agent**](agent.md) - AI-Powered Desktop Workstation
+- [**PrivateAI Agent**](agent) - AI-Powered Desktop Workstation
 
 ### Token Economics
-- [**$PGPT Token Utility**](token-utility.md) - Comprehensive Token Use Cases
+- [**$PGPT Token Utility**](token-utility) - Comprehensive Token Use Cases
 
 ---
 
@@ -118,7 +118,7 @@ The PrivateAI ecosystem is built on a microservices architecture where products 
 
 The tool that put PrivateAI on the map. Processes Twitter and Telegram at massive scale to identify trending tokens before they pump. Features unique KOL discovery that shows who called tokens first, distinguishing real alpha from paid shilling.
 
-[**Explore The Thing →**](the-thing.md)
+[**Explore The Thing →**](the-thing)
 
 ---
 
@@ -127,8 +127,8 @@ The tool that put PrivateAI on the map. Processes Twitter and Telegram at massiv
 
 Comprehensive trading infrastructure combining real-time token discovery, automated trading execution, and AI-powered sentiment analysis for identifying 100x opportunities early.
 
-[**Explore Trading Platform →**](trading-platform.md)  
-[**Explore Trading Intelligence Suite →**](trading-intelligence.md)
+[**Explore Trading Platform →**](trading-platform)  
+[**Explore Trading Intelligence Suite →**](trading-intelligence)
 
 ---
 
@@ -137,9 +137,9 @@ Comprehensive trading infrastructure combining real-time token discovery, automa
 
 AI-powered tools for research automation, document processing, and scientific verification. From 24/7 research monitoring to citation verification, these tools serve researchers and AI agents alike.
 
-[**Explore Research AI →**](research-ai.md)  
-[**Explore ParaGraphAI →**](paragraphai.md)  
-[**Explore DocViz →**](docviz.md)
+[**Explore Research AI →**](research-ai)  
+[**Explore ParaGraphAI →**](paragraphai)  
+[**Explore DocViz →**](docviz)
 
 ---
 
@@ -148,7 +148,7 @@ AI-powered tools for research automation, document processing, and scientific ve
 
 Transform your desktop into an AI-powered command center with intelligent overlays, natural language computer control, and 5 specialized AI agents working in harmony.
 
-[**Explore PrivateAI Agent →**](agent.md)
+[**Explore PrivateAI Agent →**](agent)
 
 ---
 
@@ -161,7 +161,7 @@ The $PGPT token provides tiered access across all PrivateAI products, creating s
 - **Network Effects**: More holders = better AI models and data
 - **Ecosystem Access**: Single token unlocks entire suite
 
-[**View Complete Token Utility →**](token-utility.md)
+[**View Complete Token Utility →**](token-utility)
 
 ---
 
@@ -228,19 +228,19 @@ The $PGPT token is the key that unlocks this entire ecosystem, providing holders
 Ready to dive deeper? Explore each product in detail:
 
 ### Start with the Flagship
-[**The Thing - Social Sentiment Intelligence →**](the-thing.md)
+[**The Thing - Social Sentiment Intelligence →**](the-thing)
 
 ### Explore Trading Tools
-[**Trading Platform →**](trading-platform.md) | [**Trading Intelligence Suite →**](trading-intelligence.md)
+[**Trading Platform →**](trading-platform) | [**Trading Intelligence Suite →**](trading-intelligence)
 
 ### Discover Research Tools
-[**Research AI →**](research-ai.md) | [**ParaGraphAI →**](paragraphai.md) | [**DocViz →**](docviz.md)
+[**Research AI →**](research-ai) | [**ParaGraphAI →**](paragraphai) | [**DocViz →**](docviz)
 
 ### Enhance Productivity
-[**PrivateAI Agent →**](agent.md)
+[**PrivateAI Agent →**](agent)
 
 ### Understand Token Value
-[**$PGPT Token Utility →**](token-utility.md)
+[**$PGPT Token Utility →**](token-utility)
 
 ---
 

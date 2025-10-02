@@ -1,6 +1,6 @@
 # $PGPT Token Utility
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -493,20 +493,20 @@ In crypto markets, information and speed are everything. $PGPT gives you:
 Ready to see how each product creates value?
 
 ### Trading Intelligence
-- [The Thing - Social Sentiment →](the-thing.md)
-- [Trading Platform →](trading-platform.md)
-- [Trading Intelligence Suite →](trading-intelligence.md)
+- [The Thing - Social Sentiment →](the-thing)
+- [Trading Platform →](trading-platform)
+- [Trading Intelligence Suite →](trading-intelligence)
 
 ### Research & Knowledge
-- [Research AI →](research-ai.md)
-- [ParaGraphAI →](paragraphai.md)
-- [DocViz →](docviz.md)
+- [Research AI →](research-ai)
+- [ParaGraphAI →](paragraphai)
+- [DocViz →](docviz)
 
 ### Productivity
-- [PrivateAI Agent →](agent.md)
+- [PrivateAI Agent →](agent)
 
 ### Overview
-- [← Back to Overview](index.md)
+- [← Back to Overview](index)
 
 ---
 

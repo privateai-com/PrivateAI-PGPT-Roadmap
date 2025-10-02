@@ -1,6 +1,6 @@
 # DocViz - Advanced Document Intelligence Platform
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -411,10 +411,10 @@ for figure in result.figures:
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [ParaGraphAI - Article Verification →](paragraphai.md)
-- [Research AI →](research-ai.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [ParaGraphAI - Article Verification →](paragraphai)
+- [Research AI →](research-ai)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 

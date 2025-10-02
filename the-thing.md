@@ -1,6 +1,6 @@
 # The Thing - Social Sentiment Intelligence Platform
 
-[← Back to Overview](index.md)
+[← Back to Overview](index)
 
 ---
 
@@ -306,10 +306,10 @@ It's not just a product—it's the foundation of the PrivateAI ecosystem and the
 
 ## 🔗 Explore More
 
-- [← Back to Overview](index.md)
-- [Trading Platform →](trading-platform.md)
-- [Trading Intelligence Suite →](trading-intelligence.md)
-- [$PGPT Token Utility →](token-utility.md)
+- [← Back to Overview](index)
+- [Trading Platform →](trading-platform)
+- [Trading Intelligence Suite →](trading-intelligence)
+- [$PGPT Token Utility →](token-utility)
 
 ---
 
