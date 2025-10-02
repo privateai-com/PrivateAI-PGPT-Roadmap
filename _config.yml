@@ -1,0 +1,71 @@
+title: PrivateAI $PGPT Ecosystem Roadmap
+description: Comprehensive documentation of AI-powered trading and research intelligence tools
+theme: jekyll-theme-cayman
+
+# Site settings
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Navigation
+nav_links:
+  - title: Overview
+    url: /
+  - title: The Thing
+    url: /the-thing
+  - title: Trading
+    url: /trading-platform
+  - title: Research
+    url: /research-ai
+  - title: Token Utility
+    url: /token-utility
+
+# Social
+github_username: privateai-com
+twitter_username: PrivateAI_PGPT
+
+# Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# SEO
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO defaults
+author: PrivateAI
+twitter:
+  username: PrivateAI_PGPT
+  card: summary_large_image
+logo: /assets/images/logo.png
+social:
+  name: PrivateAI
+  links:
+    - https://twitter.com/PrivateAI_PGPT
+    - https://github.com/privateai-com
